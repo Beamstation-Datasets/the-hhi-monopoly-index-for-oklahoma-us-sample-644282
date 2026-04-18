@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Oklahoma, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 45 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `644282` |
 | Location | Oklahoma |
 | Category | Restaurants |
-| Full dataset size | 355 records |
-| Free sample size | 3 records (0.85%) |
-| Last export | 2026-04-01T00:06:02.247601+00:00 |
+| Full dataset size | 456 records |
+| Free sample size | 45 records (9.87%) |
+| Last export | 2026-04-15T02:19:36.227484+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-oklahoma-us-sample-644282/releases/download/sample-latest/beamstation_644282_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
